@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: white;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.price{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat{
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
